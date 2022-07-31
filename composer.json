@@ -1,0 +1,18 @@
+{
+    "require": {
+        "vlucas/phpdotenv": "^5.4",
+        "phpmailer/phpmailer": "^6.6",
+        "ozdemir/datatables": "^2.3",
+        "phpoffice/phpspreadsheet": "^1.18",
+        "sendgrid/sendgrid": "~7",
+        "gilbitron/easycsrf": "^1.5.1",
+        "rakit/validation": "^1.4",
+        "voku/anti-xss": "^4.1",
+        "eftec/bladeone": "^4.4",
+        "guzzlehttp/guzzle": "^7.4",
+        "endroid/qr-code": "^4.4"
+    },
+    "require-dev": {
+        "mp091689/dump-die": "^1.0"
+    }
+}
